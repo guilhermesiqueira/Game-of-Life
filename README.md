@@ -6,7 +6,7 @@ Neste projeto, é implementado uma versão do Jogo da Vida, e nele, o objetivo m
 
 **INSTRUÇÕES PARA A EXECUÇÃO DO PROGRAMA:**
 
-**1º Passo:** Clone o repositório https://gitlab.com/guilhermesiqueira/ep1 em um diretório de sua preferência.
+**1º Passo:** Clone o repositório https://github.com/guilhermesiqueira/Game-of-Life em um diretório de sua preferência.
 
 **2º Passo:** Acesse o diretório "ep1" via terminal.
 
